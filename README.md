@@ -21,7 +21,7 @@ Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https
 
 => Complete Profile
 
-=> OTP Verification
+=> OTP Verification[Flutter-Complete-e-commerce](..%2FFlutter-Complete-e-commerce)
 
 => Home Page
 
